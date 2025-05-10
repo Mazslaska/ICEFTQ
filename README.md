@@ -1,2 +1,5 @@
 # ICEFTQ
-Pichner Erika ICEFTQ GDE Objektum orientált programozás 2025 tavasz
+Pichner Erika
+ICEFTQ
+Mérnökinfomatika
+GDE Objektum orientált programozás 2025 tavasz
